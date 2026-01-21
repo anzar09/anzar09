@@ -2,6 +2,8 @@
 👋 Hi, I’m Syed Anzar, a Diploma Computer Science Engineering student (2024–2027) | Focused on building practical development skills through real projects, modern technologies, and continuous learning | I use GitHub to practice coding, manage projects, and document my learning journey | Interested in web development and emerging AI-powered developer tools || 💻 Skills & Technologies → Programming: C, Python, JavaScript, PHP | Web: HTML, CSS, JavaScript, React, PHP (backend basics) | Tools: Git, GitHub, Linux, VS Code | AI Tools: Modern AI tools for coding, debugging, content creation, and learning; actively exploring latest AI developer tools || 📂 GitHub Contains: Web development projects, practice programs, mini-projects, code experiments, academic & self-learning work || 🎯 Current Focus: Full-stack web development, writing clean & structured code, effective use of modern dev + AI tools
 
 ## 🌐 Socials:
+<h2>🌐 Socials</h2>
+
 <a href="https://instagram.com/syed_anzar01" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
@@ -17,6 +19,7 @@
 <a href="mailto:syedanzar0121@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
+
  
 
 # 💻 Tech Stack:
